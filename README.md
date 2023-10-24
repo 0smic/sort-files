@@ -1,6 +1,6 @@
-# File Organizer
+# Sort Files
 
-File Organizer is a Python script that helps you organize files in a source directory by moving them into specific folders based on their file types. This can be especially useful for cleaning up yout file system.
+Sort Files is a Python script that helps you organize files in a source directory by moving them into specific folders based on their file types. This can be especially useful for cleaning up yout file system.
 
 ## Features
 
