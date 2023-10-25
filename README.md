@@ -13,3 +13,13 @@ Sort Files is a Python script that helps you organize files in a source director
   - Videos
 
 Modify the code as per your needs
+
+# Get-Started
+
+- To download the code
+- ```bash
+  git clone https://github.com/huho-0/sort-files
+- To Run the code
+- ```bash
+  cd sort-files
+  python main.py -d your_dir_path
