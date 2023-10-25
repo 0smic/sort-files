@@ -20,6 +20,9 @@ Modify the code as per your needs
 - ```bash
   git clone https://github.com/huho-0/sort-files
 - To Run the code
-- ```bash
-  cd sort-files
-  python main.py -d your_dir_path
+  - ```bash
+    cd sort-files
+    python main.py -d your_dir_path
+    Or
+    python main.py --dirpath your_dir_path
+    
