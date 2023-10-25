@@ -2,6 +2,8 @@ import os
 import shutil
 import argparse
 
+auhtor = "Gokul B"
+
 parser = argparse.ArgumentParser(description="Hello it worked")
 
 parser.add_argument(
