@@ -1,7 +1,22 @@
 import os
 import shutil
+import argparse
 
-source_directory = r"dir path"
+parser = argparse.ArgumentParser(description="Hello it worked")
+
+parser.add_argument(
+    "--dirpath",
+    "-d",
+    nargs = 1,
+    help="The path of the directory to sort."
+)
+args = parser.parse_args()
+
+
+if args.dirpath:
+    source_directory = r'' + args.dirpath[0]
+    print(f"Sorting files in the {source_directory}")
+
 
 image_folder = "images"
 exe_folder = "executable"
