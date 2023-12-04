@@ -18,7 +18,7 @@ Modify the code as per your needs
 
 - To download the code
 - ```bash
-  git clone https://github.com/huho-0/sort-files
+  git clone https://github.com/0smic/sort-files
 - To Run the code
   - ```bash
     cd sort-files
